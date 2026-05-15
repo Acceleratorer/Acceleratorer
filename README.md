@@ -20,8 +20,8 @@
 <td align="center" width="45%">
   <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
 </td>
-<td align="center" width="55%">
-  <img src="./assets/ywVGEBEMejHObvFzFzTW.png" width="60%" alt="profile accent" align = "center"/>
+<td align="center" width="60%">
+  <img src="./assets/ywVGEBEMejHObvFzFzTW.png" width="60%" alt="profile accent" />
 </td>
 </tr>
 </table>
