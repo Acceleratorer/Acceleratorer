@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ywVGEBEMejHObvFzFzTW.png" alt="Acceleratorer hero banner" width="100%" />
+<img src="./assets/ywVGEBEMejHObvFzFzTW.png" alt="Acceleratorer hero banner" width="50" />
 
 <br/>
 <br/>
