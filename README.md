@@ -6,7 +6,7 @@
 
 # Tan Le / Acceleratorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=800&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps;UIT+Computer+Science+Student;Python+%7C+PyTorch+%7C+TensorFlow+%7C+SQL;Building+AI+systems+by+rebuilding+pipelines" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps;UIT+Computer+Science+Student;Python+%7C+PyTorch+%7C+TensorFlow+%7C+SQL;Study.+Rebuild.+Ship." alt="typing" />
 
 <br/>
 
@@ -16,7 +16,16 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" />
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
+</td>
+<td align="center" width="50%">
+  <img src="./assets/phrolova-unamused.gif" width="120" alt="profile accent" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -24,22 +33,26 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="./assets/phrolova-phralova.gif" width="95%" />
+<td width="45%" align="center">
+  <img src="./assets/phrolova-phralova.gif" width="95%" alt="main waifu" />
 </td>
-<td width="50%" align="center">
+<td width="55%" align="center">
 
 ### AI / Data / MLOps
 
-I build projects by studying large repositories, rebuilding their pipelines, and turning experiments into clean engineering artifacts.
+I build AI projects by studying large repositories, rebuilding their pipelines, and tuning experiments into clean engineering artifacts.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,vscode,linux" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
 
 </td>
 </tr>
@@ -47,31 +60,15 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
-
-### AI and Data
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-
-### Database and Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,vscode,linux" />
-
-### Web
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
-
-</div>
-
----
-
 ## Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="62%" valign="top">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### AI / Reasoning
 
@@ -79,7 +76,7 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 <a href="https://github.com/Acceleratorer/AI-UIT-Competition">AI-UIT-Competition</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Applied AI
 
@@ -89,20 +86,28 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Deep Learning
 
 <a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>  
+<a href="https://github.com/Acceleratorer/keras-DL-for-Human">keras-DL-for-Human</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Engineering
 
 <a href="https://github.com/Acceleratorer/portfolio">portfolio</a>  
 <a href="https://github.com/Acceleratorer/auto_commit">auto_commit</a>
 
+</td>
+</tr>
+</table>
+
+</td>
+<td width="38%" align="center">
+  <img src="./assets/phrolova-phralova%20(3).gif" width="90%" alt="featured waifu" />
 </td>
 </tr>
 </table>
@@ -115,17 +120,13 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 
 <img src="./assets/phrolova-phralova%20(1).gif" width="31%" />
 <img src="./assets/phrolova-phralova%20(2).gif" width="31%" />
-<img src="./assets/phrolova-phralova%20(3).gif" width="31%" />
+<img src="./assets/phrolova-phralova%20(4).gif" width="31%" />
 
 <br/>
 
-<img src="./assets/phrolova-phralova%20(4).gif" width="31%" />
 <img src="./assets/phrolova-phralova%20(5).gif" width="31%" />
+<img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="31%" />
 <img src="./assets/phrolova-unamused.gif" width="31%" />
-
-<br/><br/>
-
-<img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="42%" />
 
 </div>
 
@@ -146,8 +147,10 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 
 ---
 
+## Achievements
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=Study.%20Rebuild.%20Ship.&fontSize=22&fontAlignY=70&animation=fadeIn" />
+<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
 
 </div>
