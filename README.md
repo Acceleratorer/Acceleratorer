@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<br/><br/>
+<br/>
 
 # Tan Le / Acceleratorer
 
@@ -15,20 +14,18 @@
 
 <br/><br/>
 
-<td align="center" width="45%">
-  <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
-
+<img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
 
 </div>
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="middle">
   <img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="95%" alt="main waifu" />
 </td>
-<td width="55%" align="center">
+<td width="55%" align="center" valign="middle">
 
 ### AI / Data / MLOps
 
@@ -37,7 +34,6 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 <br/>
 
 ### Tech Stack
-
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
 <br/>
@@ -55,11 +51,11 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 
 ## Featured Work
 
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="middle">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -99,23 +95,19 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 </table>
 
 </td>
-<td width="38%" align="center">
-  <img src="./assets/phrolova-unamused.gif" width="90%" alt="featured waifu" />
+<td width="40%" align="center" valign="middle">
+  <img src="./assets/phrolova-unamused.gif" width="80%" alt="featured waifu" />
 </td>
 </tr>
 </table>
 
 ---
 
-
 ## GitHub Stats
 
 <div align="center">
 
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acceleratorer&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acceleratorer&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
