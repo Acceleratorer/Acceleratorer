@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./assets/ywVGEBEMejHObvFzFzTW.png" alt="Acceleratorer hero banner" width="50" />
 
 <br/>
 <br/>
 
-# Tan Le / Acceleratorer
+# Accelra
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=900&center=true&vCenter=true&width=920&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps+Builder;Computer+Science+Student+at+UIT;I+learn+systems+by+rebuilding+their+pipelines;Machine+Learning+%7C+Deep+Learning+%7C+Reinforcement+Learning;Python+%7C+SQL+%7C+PyTorch+%7C+TensorFlow+%7C+Power+BI" alt="Typing animation" />
 
