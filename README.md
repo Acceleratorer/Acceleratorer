@@ -111,23 +111,6 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 
 ---
 
-## Waifu Gallery
-
-<div align="center">
-
-<img src="./assets/phrolova-phralova%20(1).gif" width="31%" />
-<img src="./assets/phrolova-phralova%20(2).gif" width="31%" />
-<img src="./assets/phrolova-phralova%20(4).gif" width="31%" />
-
-<br/>
-
-<img src="./assets/phrolova-phralova%20(5).gif" width="31%" />
-<img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="31%" />
-<img src="./assets/phrolova-unamused.gif" width="31%" />
-
-</div>
-
----
 
 ## GitHub Stats
 
