@@ -59,14 +59,11 @@ and tuning experiments into clean engineering artifacts.
 
 ## Featured Work
 
+<div align="center">
+
 <table>
 <tr>
-<td colspan="2">
-  <img src="https://placehold.co/810x1/0d1117/0d1117.png" width="810" height="1" alt="" />
-</td>
-</tr>
-<tr>
-<td width="60%" valign="middle">
+<td valign="middle">
 
 <table>
 <tr>
@@ -112,11 +109,13 @@ and tuning experiments into clean engineering artifacts.
 </table>
 
 </td>
-<td width="40%" align="center" valign="middle">
-  <img src="./assets/phrolova-unamused.gif" width="80%" alt="featured waifu" />
+<td align="center" valign="middle">
+  <img src="./assets/phrolova-unamused.gif" width="180" alt="featured waifu" />
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
