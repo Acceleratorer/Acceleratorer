@@ -1,184 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F00FF,100:FF4ECD&height=230&section=header&text=Accelra%20%7C%20Tan%20Le&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20MLOps%20Builder&descAlignY=58&descSize=18" />
+<img src="./assets/phrolova-banner.jpg" alt="Profile banner" width="100%" />
 
-<a href="https://accel.io.vn/">
-  <img src="https://img.shields.io/badge/Portfolio-accel.io.vn-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tan-le-accel77/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tan%20Le-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/accelra">
-  <img src="https://img.shields.io/badge/Kaggle-accelra-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://github.com/Acceleratorer">
-  <img src="https://img.shields.io/badge/GitHub-Acceleratorer-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
+<br/>
 
-<br /><br />
+# Tan Le / Acceleratorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&center=true&vCenter=true&width=850&lines=I+build+AI+systems+that+feel+fast%2C+useful%2C+and+human.;I+study+large+repos%2C+rebuild+pipelines%2C+then+optimize+them.;Kaggle+%E2%80%A2+MLOps+%E2%80%A2+LLM+Reasoning+%E2%80%A2+Computer+Vision+%E2%80%A2+Data+Science" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps+Builder;Computer+Science+Student+at+UIT;I+study+large+systems+by+rebuilding+their+pipelines;Machine+Learning+%7C+Deep+Learning+%7C+Reinforcement+Learning;Python+%7C+SQL+%7C+PyTorch+%7C+TensorFlow+%7C+Power+BI" alt="Typing animation" />
+
+<br/>
+
+<a href="https://accel.io.vn/">Portfolio</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/Acceleratorer">GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.kaggle.com/">Kaggle</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Accelra
+## About
 
-I'm **Tan Le**, a Computer Science student at **University of Information Technology, VNU-HCM**, building toward **AI Engineering, Data Science, and MLOps**.
+I am a Computer Science student at UIT, focused on AI Engineering, Data Science, and MLOps.
 
-My style is simple:
+My learning style is project-driven. I study large repositories, break down their architecture, rebuild the pipeline, and customize the internals until I understand how the system really works.
 
-> **Study real systems → rebuild the pipeline → optimize the weak points → publish proof-of-work.**
-
-I like projects that combine **math, systems thinking, machine learning, data pipelines, automation, and product polish**.  
-This GitHub is my public lab: experiments, forks I learn from, Kaggle notebooks, AI tools, automation scripts, and production-minded prototypes.
-
----
-
-## 🚀 Current Focus
+I am interested in building AI systems that are not only impressive in demos, but also structured, reproducible, measurable, and useful in real workflows.
 
 ```txt
-AI / ML Engineering     ████████████████████░   Deep Learning, LLMs, CV, RL
-Data Science            ███████████████████░░   Pandas, SQL, statistics, visualization
-MLOps / Automation       ████████████████░░░░░   Docker, CI/CD, GitHub Actions, reproducibility
-System Rebuilding        ████████████████████░   Reading large repos, modifying pipelines
-Frontend / Portfolio     ███████████████░░░░░░   Next.js, TypeScript, Tailwind, motion UI
+Machine Learning
+Deep Learning
+Reinforcement Learning
+Computer Vision
+Data Science
+MLOps
+AI Agents
+Model Evaluation
+Production ML Pipelines
 ```
 
-- 🧠 Learning and building around **LLM reasoning, post-training, RLVR, and evaluation**
-- 📊 Competing on **Kaggle** and turning notebooks into documented repos
-- ⚙️ Improving AI systems with **testing, CI, reproducibility, and cleaner pipelines**
-- 🧪 Exploring **computer vision, voice cloning, agentic workflows, and scientific ML**
-- 🌐 Polishing my personal brand through a modern technical portfolio
+---
+
+## Technical Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&labelColor=111111&color=3776AB" />
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&labelColor=111111&color=00599C" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&labelColor=111111&color=336791" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&labelColor=111111&color=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&labelColor=111111&color=F7DF1E" />
+</p>
+
+### AI and Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&labelColor=111111&color=013243" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&labelColor=111111&color=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&labelColor=111111&color=11557C" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&labelColor=111111&color=EE4C2C" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&labelColor=111111&color=FF6F00" />
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&labelColor=111111&color=5C3EE8" />
+  <img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&labelColor=111111&color=20BEFF" />
+</p>
+
+### Databases and Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&labelColor=111111&color=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&labelColor=111111&color=4169E1" />
+  <img src="https://img.shields.io/badge/SQL_Server-111111?style=flat-square&labelColor=111111&color=CC2927" />
+  <img src="https://img.shields.io/badge/Power_BI-111111?style=flat-square&labelColor=111111&color=F2C811" />
+</p>
+
+### Engineering Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&labelColor=111111&color=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&labelColor=111111&color=181717" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&labelColor=111111&color=2496ED" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&labelColor=111111&color=007ACC" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&labelColor=111111&color=FCC624" />
+</p>
+
+### Web and Interface
+
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&labelColor=111111&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&labelColor=111111&color=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&labelColor=111111&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&labelColor=111111&color=339933" />
+</p>
 
 ---
 
-## 🧩 Featured Proof-of-Work
-
-| Project | What it shows | Stack / Direction |
-|---|---|---|
-| [`AI-Trader`](https://github.com/Acceleratorer/AI-Trader) | Agent-native trading system experiments, backend/API thinking, AI + finance workflow | Python, FastAPI, agents, data pipelines |
-| [`Real-Time-Voice-Cloning`](https://github.com/Acceleratorer/Real-Time-Voice-Cloning) | Deep learning audio pipeline, voice synthesis, model modernization | Python, PyTorch, TensorFlow, TTS |
-| [`AIMO-3`](https://github.com/Acceleratorer/AIMO-3) | Kaggle math reasoning, problem-solving, notebook experimentation | Python, Jupyter, LLM reasoning |
-| [`AI-UIT-Competition`](https://github.com/Acceleratorer/AI-UIT-Competition) | Collection of AI competition/problem-solving work at UIT | Python, ML, notebooks |
-| [`portfolio`](https://github.com/Acceleratorer/portfolio) | Personal technical portfolio with modern web stack | Next.js, TypeScript, Tailwind |
-| [`doomscrolling-detection`](https://github.com/Acceleratorer/doomscrolling-detection) | Productivity-focused computer vision / behavior detection idea | Python, CV, automation |
-| [`smart-logistic`](https://github.com/Acceleratorer/smart-logistic) | Route planning and optimization for logistics workflows | Python, algorithms, maps |
-| [`auto_commit`](https://github.com/Acceleratorer/auto_commit) | Automation system with human-like scheduling and Git workflow practice | Python, Git, scheduling, logging |
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,ts,js,react,nextjs,tailwind,pytorch,tensorflow,opencv,postgres,mysql,docker,git,githubactions,vscode&perline=9" />
-
-</div>
-
-### AI / Data
-`Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `TensorFlow` · `OpenCV` · `MediaPipe` · `Jupyter` · `Kaggle`
-
-### Engineering / MLOps
-`Git` · `GitHub Actions` · `Docker` · `FastAPI` · `CI/CD` · `Reproducible Experiments` · `Model Evaluation` · `Pipeline Debugging`
-
-### Data / Analytics
-`SQL` · `MySQL` · `PostgreSQL` · `Power BI` · `Data Visualization` · `Statistics` · `Exploratory Data Analysis`
-
-### Frontend / Product
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `GitHub Pages` · `Portfolio Design`
-
----
-
-## 🧠 How I Learn
-
-```mermaid
-flowchart LR
-    A[Read large repo] --> B[Map the architecture]
-    B --> C[Rebuild core pipeline]
-    C --> D[Modify + optimize]
-    D --> E[Test + document]
-    E --> F[Publish proof-of-work]
-```
-
-I do not only collect repos.  
-I use them as training grounds to understand how real systems are structured: configs, data flow, tests, CI, deployment, inference, evaluation, and failure cases.
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Acceleratorer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acceleratorer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Acceleratorer&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 🧪 Research / Competition Energy
-
-I enjoy competitions because they force fast iteration:
-
-- Break down the problem
-- Build a strong baseline
-- Track experiments
-- Improve one bottleneck at a time
-- Document what worked and what failed
-
-Areas I keep coming back to:
+## Current Focus
 
 ```txt
-LLM reasoning        | mathematical problem solving | post-training
-scientific ML        | surrogate modeling           | time-series / forecasting
-computer vision      | tracking / behavior systems   | automation
-data pipelines       | SQL + analytics               | reproducible notebooks
+Building AI/Data projects with production-oriented structure
+Improving model evaluation and reasoning pipelines
+Studying MLOps workflows from real repositories
+Creating clean portfolio projects for AI Engineer and Data Scientist roles
+Practicing competitive programming and algorithmic problem solving
 ```
 
 ---
 
-## 🧭 Builder Principles
+## Featured Projects
 
-- **Make it work**, then make it clean, then make it fast.
-- Prefer **measurable progress** over vague hype.
-- A good project should have a readable README, clear structure, and reproducible steps.
-- Forking is not the finish line — understanding and improving the pipeline is the point.
-- The best portfolio is not a list of claims. It is a trail of shipped work.
+### Portfolio
+
+A modern personal portfolio website built to present my technical identity, projects, and engineering direction.
+
+```txt
+Stack: Next.js, TypeScript, Tailwind CSS, GitHub Pages
+Focus: Technical branding, responsive UI, animation, deployment
+```
+
+Repository: [portfolio](https://github.com/Acceleratorer/portfolio)
 
 ---
 
-## 🌐 Connect
+### AI Trader
+
+An experimental AI trading project focused on learning how data pipelines, modeling, backtesting, and decision systems can be connected.
+
+```txt
+Stack: Python, Data Processing, Machine Learning
+Focus: Time-series data, model experimentation, trading workflow
+```
+
+Repository: [AI-Trader](https://github.com/Acceleratorer/AI-Trader)
+
+---
+
+### Real-Time Voice Cloning
+
+A study project based on real-time voice cloning systems, used to understand speech pipelines and deep learning architecture.
+
+```txt
+Stack: Python, Deep Learning, Audio Processing
+Focus: Speaker encoding, synthesis pipeline, model structure
+```
+
+Repository: [Real-Time-Voice-Cloning](https://github.com/Acceleratorer/Real-Time-Voice-Cloning)
+
+---
+
+### AIMO / AI Math Competition Work
+
+Competition-oriented AI reasoning experiments for mathematical problem solving.
+
+```txt
+Stack: Python, LLMs, Reasoning, Kaggle
+Focus: Prompting, evaluation, math reasoning, pipeline iteration
+```
+
+Repositories:
+
+- [AIMO-3](https://github.com/Acceleratorer/AIMO-3)
+- [AI-UIT-Competition](https://github.com/Acceleratorer/AI-UIT-Competition)
+
+---
+
+### Doomscrolling Detection
+
+A computer vision and behavior-analysis project focused on detecting attention-related patterns.
+
+```txt
+Stack: Python, OpenCV, Computer Vision
+Focus: Detection pipeline, behavior analytics, practical AI use case
+```
+
+Repository: [doomscrolling-detection](https://github.com/Acceleratorer/doomscrolling-detection)
+
+---
+
+### Auto Commit System
+
+A behavioral automation project for studying scripting, Git workflows, scheduling, and commit pattern simulation.
+
+```txt
+Stack: Python, Git, Windows Task Scheduler
+Focus: Automation, logs, behavior simulation, safe scheduled execution
+```
+
+Repository: [auto_commit](https://github.com/Acceleratorer/auto_commit)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<a href="https://accel.io.vn/">
-  <img src="https://img.shields.io/badge/Website-accel.io.vn-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tan-le-accel77/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/accelra">
-  <img src="https://img.shields.io/badge/Kaggle-Follow%20my%20experiments-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Acceleratorer&show_icons=false&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acceleratorer&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Acceleratorer&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acceleratorer&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
+## How I Build
+
+```txt
+1. Study the original repository or paper
+2. Recreate the core pipeline from scratch
+3. Modify internals to understand the trade-offs
+4. Evaluate performance and failure cases
+5. Refactor into a cleaner, reusable structure
+6. Document the project as a real engineering artifact
+```
+
+I care about code that is not only working, but also understandable, reproducible, and useful in real-world workflows.
+
+---
+
+## Direction
+
+My current goal is to grow into a strong AI Engineer / Data Scientist with practical MLOps ability.
+
+```txt
+Short-term:
+Build stronger public projects
+Improve Kaggle and AI competition pipelines
+Polish portfolio and technical writing
+
+Long-term:
+Design reliable ML systems
+Work on production-grade AI products
+Contribute to open-source AI tooling
+```
+
+---
+
+## Contact
+
+```txt
+GitHub:    github.com/Acceleratorer
+Portfolio: accel.io.vn
+Location:  Ho Chi Minh City, Vietnam
+Focus:     AI Engineering, Data Science, MLOps
+```
+
 <div align="center">
 
-### `wait this world haven't changed — so I'm changing it one repo at a time.`
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:7F00FF,100:00C9FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Building%20systems,%20learning%20deeply,%20shipping%20consistently.&fontSize=18&fontAlignY=70&animation=fadeIn" alt="Footer animation" />
 
 </div>
