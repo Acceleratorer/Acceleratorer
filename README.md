@@ -20,7 +20,12 @@
 
 ---
 
-<table width="100%">
+<table>
+<tr>
+<td colspan="2">
+  <img src="https://placehold.co/810x1/0d1117/0d1117.png" width="810" height="1" alt="" />
+</td>
+</tr>
 <tr>
 <td width="45%" align="center" valign="middle">
   <img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="95%" alt="main waifu" />
@@ -54,48 +59,61 @@ and tuning experiments into clean engineering artifacts.
 
 ## Featured Work
 
-<table width="100%">
+<table>
+<tr>
+<td colspan="2">
+  <img src="https://placehold.co/810x1/0d1117/0d1117.png" width="810" height="1" alt="" />
+</td>
+</tr>
 <tr>
 <td width="60%" valign="middle">
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
+
 <h3>AI / Reasoning</h3>
+
 <a href="https://github.com/Acceleratorer/AIMO-3">AIMO-3</a>
 <br/>
 <a href="https://github.com/Acceleratorer/AI-UIT-Competition">AI-UIT-Competition</a>
-</td>
 
+</td>
 <td width="50%" valign="top">
+
 <h3>Applied AI</h3>
+
 <a href="https://github.com/Acceleratorer/AI-Trader">AI-Trader</a>
 <br/>
 <a href="https://github.com/Acceleratorer/doomscrolling-detection">doomscrolling-detection</a>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
+
 <h3>Deep Learning</h3>
+
 <a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>
 <br/>
 <a href="https://github.com/Acceleratorer/keras-DL-for-Human">keras-DL-for-Human</a>
-</td>
 
+</td>
 <td width="50%" valign="top">
+
 <h3>Engineering</h3>
+
 <a href="https://github.com/Acceleratorer/portfolio">portfolio</a>
 <br/>
 <a href="https://github.com/Acceleratorer/auto_commit">auto_commit</a>
+
 </td>
 </tr>
 </table>
 
 </td>
-
 <td width="40%" align="center" valign="middle">
-  <img src="./assets/phrolova-unamused.gif" width="85%" alt="featured waifu" />
+  <img src="./assets/phrolova-unamused.gif" width="80%" alt="featured waifu" />
 </td>
 </tr>
 </table>
