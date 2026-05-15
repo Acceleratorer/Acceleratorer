@@ -94,7 +94,6 @@ I build projects by studying large repositories, rebuilding their pipelines, and
 ### Deep Learning
 
 <a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>  
-<a href="https://github.com/Acceleratorer/keras-DL-for-Human">keras-DL-for-Human</a>
 
 </td>
 <td width="50%">
