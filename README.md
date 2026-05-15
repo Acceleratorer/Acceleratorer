@@ -56,7 +56,7 @@ and tuning experiments into clean engineering artifacts.
 
 <table width="100%">
 <tr>
-<td width="100%" valign="middle">
+<td width="60%" valign="middle">
 
 <table width="100%">
 <tr>
@@ -95,7 +95,7 @@ and tuning experiments into clean engineering artifacts.
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="./assets/phrolova-unamused.gif" width="100%" alt="featured waifu" />
+  <img src="./assets/phrolova-unamused.gif" width="85%" alt="featured waifu" />
 </td>
 </tr>
 </table>
