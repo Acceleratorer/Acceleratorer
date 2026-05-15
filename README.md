@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="./assets/phrolova-banner.jpg" alt="Profile banner" width="100%" />
+<img src="./assets/ywVGEBEMejHObvFzFzTW.png" alt="Acceleratorer hero banner" width="100%" />
 
 <br/>
 <br/>
 
 # Tan Le / Acceleratorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps+Builder;Computer+Science+Student+at+UIT;I+study+large+systems+by+rebuilding+their+pipelines;Machine+Learning+%7C+Deep+Learning+%7C+Reinforcement+Learning;Python+%7C+SQL+%7C+PyTorch+%7C+TensorFlow+%7C+Power+BI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=900&center=true&vCenter=true&width=920&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps+Builder;Computer+Science+Student+at+UIT;I+learn+systems+by+rebuilding+their+pipelines;Machine+Learning+%7C+Deep+Learning+%7C+Reinforcement+Learning;Python+%7C+SQL+%7C+PyTorch+%7C+TensorFlow+%7C+Power+BI" alt="Typing animation" />
 
 <br/>
 
 <a href="https://accel.io.vn/">Portfolio</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/Acceleratorer">GitHub</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.kaggle.com/">Kaggle</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">LinkedIn</a>
 
 <br/>
 <br/>
@@ -28,25 +24,49 @@
 
 ---
 
+<table>
+<tr>
+<td width="64%" valign="top">
+
 ## About
 
 I am a Computer Science student at UIT, focused on AI Engineering, Data Science, and MLOps.
 
-My learning style is project-driven. I study large repositories, break down their architecture, rebuild the pipeline, and customize the internals until I understand how the system really works.
+My learning style is project-driven. I study large repositories, break down their architecture, rebuild the pipeline, and customize the internals until I understand how the system works beneath the surface.
 
-I am interested in building AI systems that are not only impressive in demos, but also structured, reproducible, measurable, and useful in real workflows.
+I care about AI projects that are not only impressive in demos, but also structured, reproducible, measurable, and useful in real workflows.
 
 ```txt
-Machine Learning
-Deep Learning
-Reinforcement Learning
-Computer Vision
+Core direction:
+AI Engineering
 Data Science
 MLOps
-AI Agents
+Computer Vision
+Reasoning Pipelines
 Model Evaluation
-Production ML Pipelines
+Production-Oriented ML Systems
 ```
+
+</td>
+<td width="36%" valign="top" align="center">
+
+<br/>
+
+<img src="./assets/phrolova-phralova.gif" alt="Animated profile accent" width="92%" />
+
+<br/>
+
+```txt
+builder mode:
+study
+rebuild
+measure
+ship
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,7 +82,7 @@ Production ML Pipelines
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&labelColor=111111&color=F7DF1E" />
 </p>
 
-### AI and Data Science
+### AI and Data
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&labelColor=111111&color=013243" />
@@ -74,22 +94,16 @@ Production ML Pipelines
   <img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&labelColor=111111&color=20BEFF" />
 </p>
 
-### Databases and Analytics
+### Databases, Analytics, and Engineering
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&labelColor=111111&color=4479A1" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&labelColor=111111&color=4169E1" />
   <img src="https://img.shields.io/badge/SQL_Server-111111?style=flat-square&labelColor=111111&color=CC2927" />
   <img src="https://img.shields.io/badge/Power_BI-111111?style=flat-square&labelColor=111111&color=F2C811" />
-</p>
-
-### Engineering Tools
-
-<p>
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&labelColor=111111&color=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&labelColor=111111&color=181717" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&labelColor=111111&color=2496ED" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&labelColor=111111&color=007ACC" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&labelColor=111111&color=FCC624" />
 </p>
 
@@ -107,95 +121,146 @@ Production ML Pipelines
 ## Current Focus
 
 ```txt
-Building AI/Data projects with production-oriented structure
-Improving model evaluation and reasoning pipelines
-Studying MLOps workflows from real repositories
-Creating clean portfolio projects for AI Engineer and Data Scientist roles
-Practicing competitive programming and algorithmic problem solving
+Building stronger public AI/Data projects
+Improving Kaggle and reasoning competition pipelines
+Studying large repositories by rebuilding core systems
+Polishing portfolio, project READMEs, and technical presentation
+Practicing algorithms, data structures, and performance-oriented coding
 ```
 
 ---
 
-## Featured Projects
+## Featured Project Map
 
-### Portfolio
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A modern personal portfolio website built to present my technical identity, projects, and engineering direction.
+### AI and Reasoning
+
+<a href="https://github.com/Acceleratorer/AIMO-3">AIMO-3</a>
+
+Competition-oriented experiments for mathematical reasoning, model evaluation, and iterative solution design.
 
 ```txt
-Stack: Next.js, TypeScript, Tailwind CSS, GitHub Pages
-Focus: Technical branding, responsive UI, animation, deployment
+LLM reasoning
+Math problem solving
+Prompt and pipeline iteration
+Kaggle-style experimentation
 ```
 
-Repository: [portfolio](https://github.com/Acceleratorer/portfolio)
+<a href="https://github.com/Acceleratorer/AI-UIT-Competition">AI-UIT-Competition</a>
 
----
-
-### AI Trader
-
-An experimental AI trading project focused on learning how data pipelines, modeling, backtesting, and decision systems can be connected.
+A collection of AI competition work and problem-solving experiments from the UIT learning path.
 
 ```txt
-Stack: Python, Data Processing, Machine Learning
-Focus: Time-series data, model experimentation, trading workflow
+AI problem solving
+Evaluation workflow
+Notebook-to-repo organization
 ```
 
-Repository: [AI-Trader](https://github.com/Acceleratorer/AI-Trader)
+</td>
+<td width="50%" valign="top">
 
----
+### Applied AI Systems
 
-### Real-Time Voice Cloning
+<a href="https://github.com/Acceleratorer/AI-Trader">AI-Trader</a>
 
-A study project based on real-time voice cloning systems, used to understand speech pipelines and deep learning architecture.
+An experimental AI trading project for connecting data pipelines, modeling, decision logic, and backtesting ideas.
 
 ```txt
-Stack: Python, Deep Learning, Audio Processing
-Focus: Speaker encoding, synthesis pipeline, model structure
+Time-series data
+Feature engineering
+Model experimentation
+Trading workflow
 ```
 
-Repository: [Real-Time-Voice-Cloning](https://github.com/Acceleratorer/Real-Time-Voice-Cloning)
-
----
-
-### AIMO / AI Math Competition Work
-
-Competition-oriented AI reasoning experiments for mathematical problem solving.
-
-```txt
-Stack: Python, LLMs, Reasoning, Kaggle
-Focus: Prompting, evaluation, math reasoning, pipeline iteration
-```
-
-Repositories:
-
-- [AIMO-3](https://github.com/Acceleratorer/AIMO-3)
-- [AI-UIT-Competition](https://github.com/Acceleratorer/AI-UIT-Competition)
-
----
-
-### Doomscrolling Detection
+<a href="https://github.com/Acceleratorer/doomscrolling-detection">doomscrolling-detection</a>
 
 A computer vision and behavior-analysis project focused on detecting attention-related patterns.
 
 ```txt
-Stack: Python, OpenCV, Computer Vision
-Focus: Detection pipeline, behavior analytics, practical AI use case
+Computer vision
+OpenCV pipeline
+Behavior analytics
+Practical AI use case
 ```
 
-Repository: [doomscrolling-detection](https://github.com/Acceleratorer/doomscrolling-detection)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Deep Learning Study
 
-### Auto Commit System
+<a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>
+
+A study project for understanding speech synthesis pipelines and deep learning architecture.
+
+```txt
+Audio processing
+Speaker encoding
+Synthesis pipeline
+Deep learning systems
+```
+
+<a href="https://github.com/Acceleratorer/keras-DL-for-Human">keras-DL-for-Human</a>
+
+A learning repository for deep learning concepts and implementation practice.
+
+```txt
+Keras
+Neural networks
+DL fundamentals
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering and Portfolio
+
+<a href="https://github.com/Acceleratorer/portfolio">portfolio</a>
+
+A modern personal portfolio website for technical branding, project presentation, and deployment practice.
+
+```txt
+Next.js
+TypeScript
+Tailwind CSS
+GitHub Pages
+```
+
+<a href="https://github.com/Acceleratorer/auto_commit">auto_commit</a>
 
 A behavioral automation project for studying scripting, Git workflows, scheduling, and commit pattern simulation.
 
 ```txt
-Stack: Python, Git, Windows Task Scheduler
-Focus: Automation, logs, behavior simulation, safe scheduled execution
+Python automation
+Git workflow
+Logging
+Scheduled execution
 ```
 
-Repository: [auto_commit](https://github.com/Acceleratorer/auto_commit)
+</td>
+</tr>
+</table>
+
+---
+
+## Large Repository Study
+
+I also learn by reading, running, and modifying large systems. These repositories help me understand production-level architecture and engineering trade-offs.
+
+```txt
+Flowise
+great_expectations
+paddleocr
+pixi-live2d-display
+awesome-ai-vtuber
+nekro-agent-AI
+```
+
+This is not only collecting repositories. The goal is to study architecture, reproduce core flows, and understand how real systems are organized.
 
 ---
 
@@ -219,35 +284,74 @@ Repository: [auto_commit](https://github.com/Acceleratorer/auto_commit)
 
 ---
 
+## Visual Gallery
+
+<details>
+<summary>Profile visual assets</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="./assets/phrolova-phralova%20(1).gif" alt="Phrolova animation 1" width="100%" />
+</td>
+<td width="33%" align="center">
+<img src="./assets/phrolova-phralova%20(2).gif" alt="Phrolova animation 2" width="100%" />
+</td>
+<td width="33%" align="center">
+<img src="./assets/phrolova-phralova%20(3).gif" alt="Phrolova animation 3" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="./assets/phrolova-phralova%20(4).gif" alt="Phrolova animation 4" width="100%" />
+</td>
+<td width="33%" align="center">
+<img src="./assets/phrolova-phralova%20(5).gif" alt="Phrolova animation 5" width="100%" />
+</td>
+<td width="33%" align="center">
+<img src="./assets/phrolova-unamused.gif" alt="Phrolova unamused animation" width="100%" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/dLejimnUjjHpCnnZgjSE.gif" alt="Additional animated asset" width="45%" />
+
+</details>
+
+---
+
 ## How I Build
 
 ```txt
-1. Study the original repository or paper
+1. Study the original repository, paper, or system design
 2. Recreate the core pipeline from scratch
-3. Modify internals to understand the trade-offs
+3. Modify internals to understand trade-offs
 4. Evaluate performance and failure cases
-5. Refactor into a cleaner, reusable structure
+5. Refactor into a cleaner and reusable structure
 6. Document the project as a real engineering artifact
 ```
 
-I care about code that is not only working, but also understandable, reproducible, and useful in real-world workflows.
+I prefer projects that force me to understand the full path from data to model to evaluation to deployment.
 
 ---
 
 ## Direction
 
-My current goal is to grow into a strong AI Engineer / Data Scientist with practical MLOps ability.
-
 ```txt
 Short-term:
-Build stronger public projects
-Improve Kaggle and AI competition pipelines
-Polish portfolio and technical writing
+Build stronger AI/Data public projects
+Improve reasoning and Kaggle competition pipelines
+Polish portfolio, GitHub profile, and technical writing
 
 Long-term:
 Design reliable ML systems
 Work on production-grade AI products
 Contribute to open-source AI tooling
+Grow into a strong AI Engineer / Data Scientist with MLOps ability
 ```
 
 ---
