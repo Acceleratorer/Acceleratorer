@@ -38,6 +38,7 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 
 ### Tech Stack
 
+
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
@@ -99,7 +100,7 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 
 </td>
 <td width="38%" align="center">
-  <img src="./assets/phrolova-phralova%20(3).gif" width="90%" alt="featured waifu" />
+  <img src="./assets/phrolova-unamused.gif" width="90%" alt="featured waifu" />
 </td>
 </tr>
 </table>
