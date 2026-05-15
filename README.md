@@ -116,8 +116,6 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Acceleratorer&show_icons=true&hide_border=true&theme=transparent" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acceleratorer&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
 <br/>
 
