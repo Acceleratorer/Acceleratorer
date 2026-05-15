@@ -27,13 +27,16 @@
 </td>
 <td width="55%" align="center" valign="middle">
 
-### AI / Data / MLOps
+<h3>AI / Data / MLOps</h3>
 
-I build AI projects by studying large repositories, rebuilding their pipelines, and tuning experiments into clean engineering artifacts.
+<p>
+I build AI projects by studying large repositories, rebuilding their pipelines,
+and tuning experiments into clean engineering artifacts.
+</p>
 
 <br/>
 
-### Tech Stack
+<h3>Tech Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
 <br/>
@@ -58,45 +61,41 @@ I build AI projects by studying large repositories, rebuilding their pipelines, 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### AI / Reasoning
-
-<a href="https://github.com/Acceleratorer/AIMO-3">AIMO-3</a>  
+<h3>AI / Reasoning</h3>
+<a href="https://github.com/Acceleratorer/AIMO-3">AIMO-3</a>
+<br/>
 <a href="https://github.com/Acceleratorer/AI-UIT-Competition">AI-UIT-Competition</a>
-
 </td>
+
 <td width="50%" valign="top">
-
-### Applied AI
-
-<a href="https://github.com/Acceleratorer/AI-Trader">AI-Trader</a>  
+<h3>Applied AI</h3>
+<a href="https://github.com/Acceleratorer/AI-Trader">AI-Trader</a>
+<br/>
 <a href="https://github.com/Acceleratorer/doomscrolling-detection">doomscrolling-detection</a>
-
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-
-### Deep Learning
-
-<a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>  
+<h3>Deep Learning</h3>
+<a href="https://github.com/Acceleratorer/Real-Time-Voice-Cloning">Real-Time-Voice-Cloning</a>
+<br/>
 <a href="https://github.com/Acceleratorer/keras-DL-for-Human">keras-DL-for-Human</a>
-
 </td>
+
 <td width="50%" valign="top">
-
-### Engineering
-
-<a href="https://github.com/Acceleratorer/portfolio">portfolio</a>  
+<h3>Engineering</h3>
+<a href="https://github.com/Acceleratorer/portfolio">portfolio</a>
+<br/>
 <a href="https://github.com/Acceleratorer/auto_commit">auto_commit</a>
-
 </td>
 </tr>
 </table>
 
 </td>
+
 <td width="40%" align="center" valign="middle">
-  <img src="./assets/phrolova-unamused.gif" width="80%" alt="featured waifu" />
+  <img src="./assets/phrolova-unamused.gif" width="85%" alt="featured waifu" />
 </td>
 </tr>
 </table>
