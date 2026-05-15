@@ -31,7 +31,7 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <img src=".assets/dLejimnUjjHpCnnZgjSE.gif" width="95%" alt="main waifu" />
+  <img src="./assets/dLejimnUjjHpCnnZgjSE.gif" width="95%" alt="main waifu" />
 </td>
 <td width="55%" align="center">
 
