@@ -115,20 +115,6 @@ ship
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&labelColor=111111&color=339933" />
 </p>
 
----
-
-## Current Focus
-
-```txt
-Building stronger public AI/Data projects
-Improving Kaggle and reasoning competition pipelines
-Studying large repositories by rebuilding core systems
-Polishing portfolio, project READMEs, and technical presentation
-Practicing algorithms, data structures, and performance-oriented coding
-```
-
----
-
 ## Featured Project Map
 
 <table>
@@ -320,21 +306,6 @@ This is not only collecting repositories. The goal is to study architecture, rep
 <img src="./assets/dLejimnUjjHpCnnZgjSE.gif" alt="Additional animated asset" width="45%" />
 
 </details>
-
----
-
-## How I Build
-
-```txt
-1. Study the original repository, paper, or system design
-2. Recreate the core pipeline from scratch
-3. Modify internals to understand trade-offs
-4. Evaluate performance and failure cases
-5. Refactor into a cleaner and reusable structure
-6. Document the project as a real engineering artifact
-```
-
-I prefer projects that force me to understand the full path from data to model to evaluation to deployment.
 
 ---
 
