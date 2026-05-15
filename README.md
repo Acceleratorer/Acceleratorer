@@ -13,14 +13,11 @@
 <br/><br/>
 
 
-<tr>
-<td align="center" width="50%">
   <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
-</td>
-<td align="center" width="50%">
+
+
   <img src="./assets/ywVGEBEMejHObvFzFzTW.png" width="120" alt="profile accent" />
-</td>
-</tr>
+
 
 
 </div>
