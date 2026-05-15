@@ -56,7 +56,7 @@ and tuning experiments into clean engineering artifacts.
 
 <table width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="100%" valign="middle">
 
 <table width="100%">
 <tr>
