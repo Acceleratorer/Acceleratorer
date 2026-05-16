@@ -62,9 +62,10 @@ and tuning experiments into clean engineering artifacts.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acceleratorer&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%20Acceleratorer&theme=aura&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
+
 
 ---
 
