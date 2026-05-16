@@ -14,9 +14,17 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/ 🎓 university-uit-cyan" alt="university: uit" />
+  <img src="https://img.shields.io/badge/😭 hobby-sleep-green" alt="hobby: sleep" />
+
+  <img src="https://img.shields.io/github/followers/Acceleratorer?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Acceleratorer?label=Stars&style=social" alt="GitHub stars" />
 
 </div>
+
+
 
 ---
 
@@ -43,13 +51,13 @@ and tuning experiments into clean engineering artifacts.
 
 <h3>Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java" />
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,kafka" /> 
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,mongodb,git,github,vscode,arch" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,dotnet,flutter" />
 
 </td>
 </tr>
