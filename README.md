@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://accel.io.vn/">Portfolio</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Acceleratorer">GitHub</a>
-
 <br/><br/>
 
 <div align="center">
