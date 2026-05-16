@@ -72,6 +72,6 @@ and tuning experiments into clean engineering artifacts.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=9" alt="GitHub trophies" />
 
 </div>
