@@ -2,7 +2,7 @@
 
 <br/>
 
-# Tan Le / Acceleratorer
+# Accelra
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=800&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+Data+Scientist+%7C+MLOps;UIT+Computer+Science+Student;Python+%7C+PyTorch+%7C+TensorFlow+%7C+SQL;Study.+Rebuild.+Ship." alt="typing" />
 
