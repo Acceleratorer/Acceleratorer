@@ -1,14 +1,11 @@
 <div align="center">
 
-<br/>
 
 # Accelra
 
 <h4 align="center">AI Enginner and Data Scientist </h4>
 
-<br/>
 
-<br/><br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Acceleratorer&label=Profile%20Views&style=flat-square" alt="profile views" />
