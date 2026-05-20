@@ -3,7 +3,7 @@
 
 # Accelra
 
-<h4 align="center">AI Enginner and Data Scientist </h4>
+<h4 align="center">AI Engineer and Data Scientist </h4>
 
 
 
