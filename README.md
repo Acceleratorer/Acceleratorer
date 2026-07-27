@@ -72,10 +72,8 @@ and tuning experiments into clean engineering artifacts.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acceleratorer&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/Acceleratorer/Acceleratorer/output/github-contribution-grid-snake.svg" />
