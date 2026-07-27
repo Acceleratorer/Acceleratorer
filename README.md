@@ -62,12 +62,9 @@ and tuning experiments into clean engineering artifacts.
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Acceleratorer&theme=aura&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Acceleratorer&theme=aura&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 
 ---
 
@@ -75,9 +72,6 @@ and tuning experiments into clean engineering artifacts.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Acceleratorer&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
 
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Acceleratorer&show_icons=true&theme=aura&hide_border=true" />
