@@ -48,7 +48,7 @@ and tuning experiments into clean engineering artifacts.
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,kafka" /> 
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,mongodb,git,github,vscode,arch" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,mongodb,git,github,vscode,nix" />
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,dotnet,flutter" />
 
